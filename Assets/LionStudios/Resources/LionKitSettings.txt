@@ -1,4 +1,8 @@
 {
+	"LionStudios.Suite.Analytics.LionAnalytics": {
+		"heartbeatInterval": 60,
+		"enableGameAnalyticsEvents": true
+	},
 	"LionStudios.Suite.Core.LionCore": {
 		"_UseMultiDexSupport": true,
 		"_UseProGuard": true,
@@ -9,9 +13,5 @@
 		"debuggerEnabled": true,
 		"showDebuggerAtStartup": true,
 		"debugLogLevel": 4
-	},
-	"LionStudios.Suite.Analytics.LionAnalytics": {
-		"heartbeatInterval": 60,
-		"enableGameAnalyticsEvents": true
 	}
 }
